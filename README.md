@@ -1,6 +1,6 @@
 # Anderoid App for Hand Written Digit Recognition using Convolutional Neural Network
 
-Author: Rishab Sharma , Harshit Singhal
+## Author: Rishab Sharma , Harshit Singhal
 
 ## Overview
 
@@ -10,9 +10,10 @@ This is the code for a model that recognizes handwritten digit images (MNIST).  
 
 ```sudo pip install -r requirements.txt```
 ## Demo Video
-<img src="https://github.com/rishab-sharma/android_to_dl/blob/master/imag2.jpeg" data-canonical-src="https://github.com/rishab-sharma/android_to_dl/blob/master/imag2.jpeg" width="200" height="400" />
-### Output
-<img src="https://github.com/rishab-sharma/android_to_dl/blob/master/imag1.jpeg" data-canonical-src="https://github.com/rishab-sharma/android_to_dl/blob/master/imag1.jpeg" width="200" height="400" />
+## Input
+<img src="https://github.com/rishab-sharma/android_to_dl/blob/master/imag2.jpeg" data-canonical-src="https://github.com/rishab-sharma/android_to_dl/blob/master/imag2.jpeg" width="300" height="400" />
+## Output
+<img src="https://github.com/rishab-sharma/android_to_dl/blob/master/imag1.jpeg" data-canonical-src="https://github.com/rishab-sharma/android_to_dl/blob/master/imag1.jpeg" width="300" height="400" />
 
 
 ## Usage
