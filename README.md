@@ -10,7 +10,7 @@ This is the code for a model that recognizes handwritten digit images (MNIST).  
 
 ```sudo pip install -r requirements.txt```
 ## Demo Video
-[![CNN Hand written digit recognition](https://img.youtube.com/vi/izyODsiKpyg/0.jpg)](https://www.youtube.com/watch?v=izyODsiKpyg)
+[![CNN Hand written digit recognition](https://github.com/rishab-sharma/android_to_dl/blob/master/imag1.jpeg)](https://www.youtube.com/watch?v=izyODsiKpyg)
 
 
 ## Usage
