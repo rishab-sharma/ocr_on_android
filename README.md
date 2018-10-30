@@ -1,6 +1,6 @@
 # Anderoid App for Hand Written Digit Recognition using Convolutional Neural Network
 
-## Author: Rishab Sharma , Harshit Singhal
+## Author: Rishab Sharma , Harshit Singhal lawda
 
 ## Overview
 
